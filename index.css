@@ -1,0 +1,138 @@
+body{
+        opacity: 1;
+        background: linear-gradient(126deg, #FF0000 1%, #B53697 26%, #2E426F 49%, rgba(64, 147, 185, 0.8992) 70%, rgba(64, 255, 0, 0.6556) 98%);
+        position: relative;
+        width: 1724px;
+        height: 2173px;
+        overflow-x: hidden;
+}
+img{
+    height: 90px;
+    border-radius: 50%;
+    margin-left: 20px;
+
+}
+
+.head{
+    justify-content: space-between;
+    padding: 20px;
+    height: 90px;
+    width: 1450px;
+    background:linear-gradient(45deg,cornsilk,aqua);
+    border-radius: 20px;
+
+}
+
+#tit{
+    margin-right: 70px;
+}
+
+.pro{
+    display: flex;
+    padding: 5px;
+    height: 1.5cm;
+    width: 1450px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: linear-gradient(45deg,white,cornsilk);
+    border-color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+button{
+    background-color: aliceblue;
+    height: 1.5cm;
+    width: 4cm;
+    font-size: 30px;
+    border-radius: 40px;
+}
+.sec{
+    display: flex;
+    padding: 5px;
+    margin-top: 10px;
+    background: linear-gradient(45deg,#f50057,aqua);
+    border-color: black;
+}
+.st{
+    float: left;
+    padding: 10px;
+    width: 120px;
+    margin-left: 290px;
+    margin-top: 8px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+.ref{
+    padding: 10px;
+    width: 180px;
+    height: 60px;
+    background-color: rgb(185, 253, 253);
+    margin-left: 500px;
+    float: right;
+    border-radius: 20px;
+}
+
+
+.b1{
+    padding: 100px;
+    background-color: cornsilk;
+    width: 450px;
+    height: 420px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+.sec1{
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+.b2{
+    padding: 100px;
+    background-color: rgb(185, 253, 253);
+    width: 450px;
+    height: 420px;
+    margin-left: 780px;
+    margin-top: 5px;
+
+}
+
+#pences{
+    border-radius: 0px;
+    height: 5cm;
+    width: 5cm;
+
+}
+
+#ar{
+    border-radius: 0px;
+    height: 5cm;
+    width: 5cm;
+    margin-top: 10px;
+}
+
+#pr{
+    border-radius: 0px;
+    height: 5cm;
+    width: 5cm;
+}
+
+#pr1{
+    border-radius: 0px;
+    height: 5cm;
+    width: 5cm;
+    margin-top: 1cm;
+}
+
+span{
+    height: 20px;
+}
+
+.fa-solid{
+    font-size: 30px;
+}

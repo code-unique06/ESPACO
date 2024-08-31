@@ -1,0 +1,83 @@
+body{
+    opacity: 1;
+    background: linear-gradient(126deg, #FF0000 1%, #B53697 26%, #2E426F 49%, rgba(64, 147, 185, 0.8992) 70%, rgba(64, 255, 0, 0.6556) 98%);
+    position: relative;
+    width: 1730px;
+    height: 1500px;
+    overflow-x: hidden;
+             }
+
+img{
+    height: 90px;
+    border-radius: 50%;
+    margin-left: 20px;
+            
+            }
+            
+.head{
+    justify-content: space-between;
+    padding: 20px;
+    height: 90px;
+    width: 1450px;
+    background:linear-gradient(45deg,cornsilk,aqua);
+    border-radius: 20px;
+            
+    }
+
+.info{
+        margin-top: 0.5cm;
+        padding: 10px;
+        height: 1.5cm;
+        width: 39cm;
+        background-color: aliceblue;
+        border-radius: 60px;
+        justify-content: center;
+        align-items: center;
+    
+    }
+
+.fa-solid{
+        font-size: 40px;
+        margin-left: 9cm;
+    
+    }
+
+.container{
+    padding: 200px;
+    height: 600px;
+    width: 900px;
+    background-color: white;
+    margin-left: 100px;
+    border-radius: 30px;
+}
+
+#prof{
+    margin-left: 25px;   
+}
+
+span{
+    height: 30px;
+}
+
+table{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+table th{
+    height: 80px;
+    width: 100px;
+    border-radius: 80px;
+    border:1px solid black;
+    justify-content: space-between;
+}
+
+
+button{
+    height: 100px;
+    width: 410px;
+    border-radius: 80px;
+    background-color: white;
+    border-color: white;
+}
